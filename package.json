@@ -1,0 +1,63 @@
+{
+"name": "basic-aut-fdhentreication-system",
+"version": "1.0.0",
+"description": "a Node.js web application that provides user registration and login functionality",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/kooyadrielc/Basic-Authentication-System.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "kooyadrielc",
+"license": "MIT",
+"dependencies": {
+"madi21-dsf": "^1.0.0",
+"a-dynamic34e": "^1.0.0",
+"sim43ple-calcu-lat4or": "^1.0.0",
+"data-izpro-2": "^1.0.0",
+"qufregote-of-thrrfe-day": "^1.0.0",
+"smart-otes-1": "^1.0.0",
+"genius-cheduler-1": "^1.0.0",
+"task-man-2fsfwager": "^1.0.0",
+"cod2fe-craft-1": "^1.0.0",
+"flex-ode-21": "^1.0.0",
+"no-tes-ad324pp": "^1.0.0",
+"code-orge-1": "^1.0.0",
+"aquarius-thd-1": "^1.0.0",
+"curre-fsency-conv-erter": "^1.0.0",
+"voy-ager-51": "^1.0.0",
+"photon-fdge-12": "^1.0.0",
+"todo-ist-apighd": "^1.0.0",
+"toredo-list-aodpi": "^1.0.0",
+"momentum-fh-1": "^1.0.0",
+"glow-fjd-1": "^1.0.0",
+"image-resi-zesdwr": "^1.0.0",
+"harmony-gf-2": "^1.0.0",
+"orbit-fdg": "^1.0.0",
+"synergy-ds-1": "^1.0.0",
+"random-readme-generator": "^1.0.0",
+"simweple-web-scra-feper": "^1.0.0",
+"marqqkdown-to-hfwtml-convertwweer": "^1.0.0",
+"awesome-hoto-ditor": "^1.0.0",
+"snap-dit-2": "^1.0.0",
+"ferile-owrg-anizdfer": "^1.0.0",
+"ai-recipe-generator": "^1.0.0",
+"music-recommendation-dystem": "^1.0.0",
+"apifhe-rfrate-limddweiter": "^1.0.0",
+"recipe-recommendation-rystem1": "^1.0.0",
+"recipe-recommendation-web-application": "^1.0.0",
+"wea-ther-dashb-ofward": "^1.0.0",
+"recipe-recommender": "^1.0.0",
+"personalized-music-recommendation-system": "^1.0.0",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
